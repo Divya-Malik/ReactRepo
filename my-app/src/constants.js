@@ -1,7 +1,7 @@
 export const LoginData =
     {
-        "username" : "d",
-        "password" : "d"
+        "username" : "hruday@gmail.com",
+        "password" : "hruday123"
     }
 
 export const DashboardData=[
